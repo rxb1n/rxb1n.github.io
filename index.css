@@ -1,0 +1,16 @@
+body{
+    background-color: #262626;
+}
+.header{
+    border-bottom: solid 2px white;
+    width: 100%;
+    text-align: center;
+    font-family: SHRIKHAND;
+    color: crimson;
+    letter-spacing: 2px;
+    text-shadow:     2px  2px orange,
+                    4px 4px yellow,
+                    6px 6px springgreen,
+                    8px 8px deepskyblue,
+                    10px 10px royalblue;
+}
