@@ -14,38 +14,3 @@ body{
                     8px 8px deepskyblue,
                     10px 10px royalblue;
 }
-.container{
-    margin-top: 10px;
-    width: 100%;
-    height: auto;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-.hi{
-    background-color: #58626a;
-    width: 50%;
-    height: 700px;
-    margin-right: 10px;
-}
-h3{
-    color: white;
-    margin-top: 250px;
-    text-align: center;
-    font-family: cursive;
-    font-size: 2em;
-    letter-spacing: 4px;
-}
-h5{
-    color: white;
-    margin-top: 100px;
-    text-align: center;
-    font-family: cursive;
-    font-size: 2em;
-    letter-spacing: 4px;
-}
-.img{
-    width: 930px;
-    height: 700px;
-}
