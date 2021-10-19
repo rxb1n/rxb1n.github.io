@@ -1,0 +1,19 @@
+<a class="play" href="https://open.spotify.com/playlist/6r0NRAT5dUAEmHQ0f8HuhC?si=9f75ab79e3524fef" target="_blank">come over when your'e sober</a>
+
+<a class="play" href="https://open.spotify.com/playlist/2MqkzqCadX85fRrF9vZT54?si=c6cbe989fabd45a7" target="_blank">I don't want to live in this WRLD without you're music</a>
+
+<a class="play" href="https://open.spotify.com/playlist/6CbSRWH3M0SDQaosicwXTJ?si=5bd908ea363a4581" target="_blank">愛はない💔</a>
+
+<a class="play" href="https://open.spotify.com/playlist/4P2GM3KS6GqGAwgALfmYdF?si=df9cb051f67242e3" target="_blank">Shisha la vida</a>
+
+<div class="playlinks">
+                <ul>
+                    <li><a class="play" href="https://open.spotify.com/playlist/6r0NRAT5dUAEmHQ0f8HuhC?si=9f75ab79e3524fef" target="_blank">come over when your'e sober</a></li>
+
+                    <li><a class="play" href="https://open.spotify.com/playlist/2MqkzqCadX85fRrF9vZT54?si=c6cbe989fabd45a7" target="_blank">I don't want to live in this WRLD without you're music</a></li>
+
+                    <li><a class="play" href="https://open.spotify.com/playlist/6CbSRWH3M0SDQaosicwXTJ?si=5bd908ea363a4581" target="_blank">愛はない💔</a></li>
+
+                    <li><a class="play" href="https://open.spotify.com/playlist/4P2GM3KS6GqGAwgALfmYdF?si=df9cb051f67242e3" target="_blank">Shisha la vida</a></li>
+                </ul>
+            </div>

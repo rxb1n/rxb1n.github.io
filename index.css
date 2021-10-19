@@ -6,6 +6,9 @@ body{
 .header{
     margin: 0 10px;
     border-bottom: solid 2px #404247;
+    background-color: #262626;
+    position: fixed;
+    top: 0;
     width: 99%;
     display: flex;
     flex-direction: row;
@@ -34,11 +37,11 @@ a {
     color:inherit;
     text-decoration:none;
   }
-a:hover{
+.ull:hover{
     text-decoration: underline white;
 }
 .box{
-    margin-top: 50px;
+    margin-top: 125px;
     margin-left: 25%;
     margin-right: 25%;
     width: auto;
@@ -51,7 +54,7 @@ a:hover{
     margin: 5px;
     padding-top: 4px;
     margin-left: 25px;
-    margin-right: 0;
+    margin-right: 0px;
     width: 400px;
     height: 700px;
     box-shadow: 20px 20px 20px #111;
@@ -71,11 +74,25 @@ a:hover{
 }
 .txt{
     text-align: center;
-    color: white;
+    color: #cda6ba;
     font-family: cursive;
+}
+.ul:hover{
+    text-decoration: underline #cda6ba 2px;
 }
 li{
     list-style-type: none;
     margin-left: 15px;
     margin-top: 60px;
+}
+.play{
+    border: solid 1px white;
+    color: #cda6ba;
+    font-size: 20px;
+    margin-left: 25px;
+
+}
+.playimg{
+    border-radius: 12px;
+    box-shadow: 7px 7px 10px #111;
 }
